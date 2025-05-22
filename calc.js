@@ -1,7 +1,7 @@
 function calcularDesconto() {
-    const preco = Number(document.getElementById("preco").value);
-    const desconto = Number(document.getElementById("desconto").value);
-    const resultado = document.getElementById("resultado");
+    const preco = Number(document.getElementById("preco").value)
+    const desconto = Number(document.getElementById("desconto").value)
+    const resultado = document.getElementById("resultado")
 
     if (preco > 0 && desconto >= 0) {
         const valorDesconto = preco * (desconto / 100);
