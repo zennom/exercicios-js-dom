@@ -3,4 +3,4 @@
 
 <img src="images/print1.png" alt="print">
 
-<img src="images/print2.pngpng" alt="print">
+<img src="images/print2.png" alt="print">
